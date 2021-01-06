@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\The Genius Bubble Tea\The Genius Bubble Tea\bin\Debug\netcoreapp2.1\The Genius Bubble Tea.deps.json
+C:\Users\asus\source\repos\The Genius Bubble Tea\The Genius Bubble Tea\bin\Debug\netcoreapp2.1\The Genius Bubble Tea.runtimeconfig.json
+C:\Users\asus\source\repos\The Genius Bubble Tea\The Genius Bubble Tea\bin\Debug\netcoreapp2.1\The Genius Bubble Tea.runtimeconfig.dev.json
+C:\Users\asus\source\repos\The Genius Bubble Tea\The Genius Bubble Tea\bin\Debug\netcoreapp2.1\The Genius Bubble Tea.dll
+C:\Users\asus\source\repos\The Genius Bubble Tea\The Genius Bubble Tea\bin\Debug\netcoreapp2.1\The Genius Bubble Tea.pdb
+C:\Users\asus\source\repos\The Genius Bubble Tea\The Genius Bubble Tea\obj\Debug\netcoreapp2.1\The Genius Bubble Tea.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\The Genius Bubble Tea\The Genius Bubble Tea\obj\Debug\netcoreapp2.1\The Genius Bubble Tea.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\The Genius Bubble Tea\The Genius Bubble Tea\obj\Debug\netcoreapp2.1\The Genius Bubble Tea.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\The Genius Bubble Tea\The Genius Bubble Tea\obj\Debug\netcoreapp2.1\The Genius Bubble Tea.AssemblyInfo.cs
+C:\Users\asus\source\repos\The Genius Bubble Tea\The Genius Bubble Tea\obj\Debug\netcoreapp2.1\The Genius Bubble Tea.dll
+C:\Users\asus\source\repos\The Genius Bubble Tea\The Genius Bubble Tea\obj\Debug\netcoreapp2.1\The Genius Bubble Tea.pdb
